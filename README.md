@@ -2,7 +2,7 @@
 
 Visitas no meu perfil  <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/LiliiF/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/LuisFerPeixoto/count.svg" />
  </p>
 
 </p>
