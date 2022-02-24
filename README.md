@@ -1,6 +1,6 @@
-## <div align="center"> Oie, Tudo Bem?  Seja Bem Vindo ao meu GitHub ! </div>
+## <div align="center"> Oie, Tudo Bem ? </div>
 
-Sou o Luis Fernando... mais conhecido como Piris 
+Seja Bem Vindo ao meu GitHub ! Sou o Luis Fernando... mais conhecido como Piris 
 
 XXIV.XI.MCMXCV | 2.6♐️
 
@@ -43,8 +43,7 @@ Cruzeirense 🐺💙
   <a href="https://www.linkedin.com/in/luisfernandopeixoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
-##
-Visitas no meu perfil  <br>
+## Visitas no meu Perfil  <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/LuisFerPeixoto/count.svg" />
  </p>
