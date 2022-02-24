@@ -30,7 +30,7 @@ Cruzeirense 🐺 💙
     
 <div  align="center">
    
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/LuisFerPeixoto/LuisFerPeixoto/7e0e0d52e47865d9a643867c979f07e253594c17/github-contribution-grid-snake.svg)
   
 </div>
  
