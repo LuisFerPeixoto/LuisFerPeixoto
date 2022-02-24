@@ -2,13 +2,13 @@
 
 Seja Bem Vindo ao meu GitHub ! Sou o Luis Fernando... mais conhecido como Piris 
 
-XXIV.XI.MCMXCV | 2.6♐️
+XXIV.XI.MCMXCV | 2.6 ♐️
 
 Mineiro Uai 🔺
 
-EJC ❤🙏🏻† XXX.XI.MMXII
+EJC ❤ 🙏 † XXX.XI.MMXII
 
-Cruzeirense 🐺💙
+Cruzeirense 🐺 💙
 
   ## Em Aprendizado. . .
   
