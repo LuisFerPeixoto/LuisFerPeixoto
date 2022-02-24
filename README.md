@@ -10,7 +10,7 @@ EJC ❤🙏🏻† XXX.XI.MMXII
 
 Cruzeirense 🐺💙
 
-  ## EM Aprendizado. . .
+  ## Em Aprendizado. . .
   
   <div style="display: inline_block"><br>
 <img align="center" alt="calega-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
