@@ -1,5 +1,7 @@
 ## <div align="center"> Oie, Tudo Bem ? </div>
 
+<img max-width="100%" align="center" src="https://github.com/LuisFerPeixoto/LuisFerPeixoto/blob/main/PHOTO-2019-01-11-15-15-51.jpg"></a>
+
 Seja Bem Vindo ao meu GitHub ! Sou o Luis Fernando... mais conhecido como Piris 
 
 XXIV.XI.MCMXCV | 2.6 ♐️
