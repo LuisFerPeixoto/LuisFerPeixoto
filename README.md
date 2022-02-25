@@ -1,12 +1,13 @@
-## <div align="center"> Oie, Tudo Bem ? </div>
+
 
 
 <div  align="center" >   
     <img width="75%" src="https://github.com/LuisFerPeixoto/LuisFerPeixoto/blob/main/PHOTO-2019-01-11-15-15-51.jpg" alt="">
 </div>
 
+##
 
-Seja Bem Vindo ao meu GitHub ! Sou o Luis Fernando... mais conhecido como Piris 
+Seja Bem-Vindo ao meu GitHub! Sou o Luis Fernando... mais conhecido como Piris. 
 
 XXIV.XI.MCMXCV | 2.6 ♐️
 
@@ -16,7 +17,7 @@ EJC ❤ 🙏 † XXX.XI.MMXII
 
 Cruzeirense 🐺 💙
 
-  ## Em Aprendizado. . .
+  ## Estudando
   
   <div align="center" style="display: inline_block"><br>
 <img align="center" alt="calega-js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -31,15 +32,8 @@ Cruzeirense 🐺 💙
   <a href="https://github.com/LuisFerPeixoto">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuisFerPeixoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFerPeixoto&layout=compact&langs_count=7&theme=dracula"/>
-</div
-    
-    
-<div  align="center">
-   
-  ![Snake animation](https://raw.githubusercontent.com/LuisFerPeixoto/LuisFerPeixoto/7e0e0d52e47865d9a643867c979f07e253594c17/github-contribution-grid-snake.svg)
-  
 </div>
- 
+    
  ## Redes Sociais
   <div  align="center"> 
    <a href="https://www.facebook.com/parceiro.luisf" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
