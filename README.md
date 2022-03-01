@@ -5,17 +5,8 @@
     <img width="75%" src="https://github.com/LuisFerPeixoto/LuisFerPeixoto/blob/main/PHOTO-2019-01-11-15-15-51.jpg" alt="">
 </div>
 
-##
 
-Seja Bem-Vindo ao meu GitHub! Sou o Luis Fernando... mais conhecido como Piris. 
-
-XXIV.XI.MCMXCV | 2.6 ♐️
-
-Mineiro Uai 🔺
-
-EJC ❤ 🙏 † XXX.XI.MMXII
-
-Cruzeirense 🐺 💙
+ <div align="center"> Seja Bem-Vindo ao meu GitHub! Sou o Luis Fernando... mais conhecido como Piris. </div>
 
   ## Estudando
   
@@ -40,7 +31,6 @@ Cruzeirense 🐺 💙
   <a href="https://instagram.com/pirisquito19?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://mobile.twitter.com/Pirisquito19" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
        <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href="luis.fpf@hotmail.com.br" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luisfernandopeixoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
